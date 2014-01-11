@@ -1,5 +1,17 @@
-The structure of an article -- INTRODUCTION
+The structure of an article
+
+Introduction
 1. what others are researching now and previous
 2. what is need to be research or what has not been researched
 3. why what i have done is interesting and important
 4. a summary of what i have done
+
+
+
+Discussion (from peny to money)
+1. what i have done and the results
+2. why i chose the following research methods instead of others
+3. what limitations the methods still have
+4. other limitations and how to overcome
+5. what to do in future
+6. talk something about neural researches
